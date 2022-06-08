@@ -5,6 +5,7 @@ description:        Test Automation Engineer
 author:             Ian O'Flynn
 baseurl:            "/ianoflynnautomation.github.io"
 url:                "https:/ianoflynnautomation.github.io"
+remote_theme:       jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   "@IanOFlynn4"
