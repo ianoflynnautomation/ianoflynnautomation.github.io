@@ -1,0 +1,24 @@
+theme:              jekyll-theme-clean-blog
+title:              Ian O'Flynn's Blog
+email:              ianoflynnlimited@example.com
+description:        Test Automation Engineer
+author:             Ian O'Flynn
+baseurl:            "/ianoflynnautomation.github.io"
+url:                "https:/ianoflynnautomation.github.io"
+
+# Social Profiles
+twitter_username:   "@IanOFlynn4"
+github_username:    Ianoflynnautomation
+linkedin_username:  "www.linkedin.com/in/ian-o-flynn-83365687"
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
